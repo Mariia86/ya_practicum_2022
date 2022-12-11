@@ -15,6 +15,6 @@ Python, Pandas, SQLAlchemy, PostrgeSQL, Tableau
 
 **Статус проекта:** завершен  
 
-Ссылка на дашборд
+[Ссылка на дашборд](https://public.tableau.com/app/profile/.14726211/viz/_2_16672365014920/Dashboard1?publish=yes)
 
-Ссылка на презентацию
+[Ссылка на презентацию](https://disk.yandex.ru/i/yHbihoW-NL1W7g)
